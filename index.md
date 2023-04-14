@@ -19,11 +19,11 @@ I analyzed 30K+ student course surveys using sentiment analysis packages in R to
 
 I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition.
 
-### Net Tuition Revenue Tracking Dashboard
+### Visual Dashboard: Net Tuition Revenue
 
 I developed an end-to-end production process of tuition and headcount dashboard visualizations and analysis using R and SQL. This consisted of aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR).
 
-### Net Tuition Revenue Tracking Dashboard
+### Campus Climate Survey: Statistical Analysis and Inference
 
 Applied statistical analysis and inference to surveys and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data include survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to use analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.
 
