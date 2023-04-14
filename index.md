@@ -9,17 +9,15 @@
 
 ## Data Science: Private Datasets and Code
 
----
-
-### Sentiment Analysis for Student Course Survey Comments
+### Sentiment Analysis: Student Course Survey Comments
 
 I analyzed 30K+ student course surveys using sentiment analysis packages in R to identify sentiment for all comments provided in student course surveys across campus. I also used SQL to pull the data from the Oracle database to be used for a personalized instructor dashboard.
 
-### Survival Analysis for University Retention and Attrition
+### Survival Analysis: University Retention and Attrition
 
 I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition.
 
-### Visual Dashboard: Net Tuition Revenue
+### Internal Dashboard: Net Tuition Revenue
 
 I developed an end-to-end production process of tuition and headcount dashboard visualizations and analysis using R and SQL. This consisted of aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR).
 
