@@ -2,11 +2,14 @@
 
 
 ### Network Analysis - Street Art
-In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. While understanding community attributes through perceptual tools we can use social network analysis methodology to understand how different neighborhoods are connected and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
+In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
 
 [Github code: Tucson_Street-Art](/Tucson_Street-Art)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Mixed Method Framework for Understanding Visual Frames in Social Movements
+The qualitative methods reviewed cover components of content analysis and technology in social movements. The quantitative methods reviewed consist of social network analysis applications of Exponential Random Graph Models (ERGM) and notions of position using block model analysis, as well as visual sentiment analysis using methods of neural networks in machine learning. Looking at visual frames through the lens of social movements opens space to review various types of applications for understanding how a visual can create meaning through perspective.
 
 ### Natural Language Processing - Machine Learning 
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
