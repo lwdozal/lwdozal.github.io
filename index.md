@@ -1,5 +1,5 @@
+--
 ## Data Science: Projects and Publications
-
 
 ### Network Analysis - Street Art
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
@@ -44,7 +44,7 @@ abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 
 ### Dissertation Research
 
-
+---
 ## Data Science: Private Datasets and Code
 
 ### Sentiment Analysis: Student Course Survey Comments
