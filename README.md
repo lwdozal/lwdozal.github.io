@@ -1,5 +1,9 @@
 ## Landing page for portfolio website
 
+help from:
+https://github.com/evanca/quick-portfolio
+https://github.com/mattschapman/mattschapman.github.io
+
 <!-- Developer Portfolio Landing Page Template
 
 ### Introduction
