@@ -6,8 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   - PhD Candidate at the University of Arizona's School of Information. Methods Expert in Network Analysis, Machine Learning, and Data Mining
   <br><br>
-<a href="https://lwdozal.github.io/CV/">View My CV</a>
-<a href="https://www.linkedin.com/in/laurawerthmann/">View My LinkedIn Profile</a>
+  <a href="https://lwdozal.github.io/CV/">View My CV</a>
+  <a href="https://www.linkedin.com/in/laurawerthmann/">View My LinkedIn Profile</a>
   <br>
   
 theme: jekyll-theme-minimal
