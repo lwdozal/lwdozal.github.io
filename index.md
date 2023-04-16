@@ -3,7 +3,7 @@
 
 ### Network Analysis - Street Art
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. While understanding community attributes through perceptual tools we can use social network analysis methodology to understand how different neighborhoods are connected and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
-[Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces]([http://example.com/](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537))
+[Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
 
 [Tucson_Street-Art](/Tucson_Street-Art)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,15 +12,15 @@ In this analysis, Street Art images are considered as a type of visual informati
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
 [Identifying Propaganda: Comparing NLP Machine Learning Models on Propagandistic News Articles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821)
 
+*BERT pre-training and fine-tuning procedures -*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-*BERT pre-training and fine-tuning procedures -* 
 [Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805) 
 <!-- J. Devlin, M. Chang, K Lee, K. Toutanova, ”BERT: Pre-training of
 Deep Bidirectional Transformers for Language Understanding”, CoRR
 abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 
+*HAN architecture -*
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-*HAN architecture -* 
 [Image taken from Yang et al 2016](https://aclanthology.org/N16-1174.pdf)
 <!-- Z. Yang, D. Yang, C. Dyer, X. He, A. Smola, and E. Hovy,“Hierarchical
 Attention Networks for Document Classification,”in Proceedings of the
@@ -49,7 +49,7 @@ I developed an end-to-end production process of tuition and headcount dashboard 
 
 Applied statistical analysis and inference to surveys and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data included survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to use analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.
 
----
+<!-- ---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -64,7 +64,7 @@ Applied statistical analysis and inference to surveys and collected data to revi
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+--- -->
 
 
 
