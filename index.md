@@ -12,21 +12,22 @@ In this analysis, Street Art images are considered as a type of visual informati
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
 [Identifying Propaganda: Comparing NLP Machine Learning Models on Propagandistic News Articles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821)
 
-*BERT pre-training and fine-tuning procedures -*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805) 
-<!-- J. Devlin, M. Chang, K Lee, K. Toutanova, ”BERT: Pre-training of
-Deep Bidirectional Transformers for Language Understanding”, CoRR
-abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
-
 *HAN architecture -*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HAN.jpg?raw=true"/>
 [Image taken from Yang et al 2016](https://aclanthology.org/N16-1174.pdf)
 <!-- Z. Yang, D. Yang, C. Dyer, X. He, A. Smola, and E. Hovy,“Hierarchical
 Attention Networks for Document Classification,”in Proceedings of the
 2016 Conference of the North American Chapter of the Association for
 Computational Linguistics: Human Language Technologies, San Diego,
 California, 2016, pp. 14801489, doi: 10.18653/v1/N16-1174. -->
+
+*BERT pre-training and fine-tuning procedures -*
+<img src="images/BERT.jpg?raw=true"/>
+[Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805) 
+<!-- J. Devlin, M. Chang, K Lee, K. Toutanova, ”BERT: Pre-training of
+Deep Bidirectional Transformers for Language Understanding”, CoRR
+abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
+
 
 ### Dissertation
 
