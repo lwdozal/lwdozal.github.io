@@ -1,4 +1,6 @@
---
+PhD Candidate at the University of Arizona's School of Information. Methods Expert in Network Analysis, Machine Learning, and Data Mining
+
+---
 ## Data Science: Projects and Publications
 
 ### Network Analysis - Street Art
@@ -30,7 +32,8 @@ This project two natural language processing models on a dataset composed of lab
 
 <!-- *HAN architecture -* -->
 <!-- <img src="images/HAN.png?raw=true"/> -->
-[HAN Image taken from Yang et al 2016](https://aclanthology.org/N16-1174.pdf)
+[HAN Image taken from Yang et al 2016](https://aclanthology.org/N16-1174.pdf), [BERT Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805) 
+
 <!-- Z. Yang, D. Yang, C. Dyer, X. He, A. Smola, and E. Hovy,“Hierarchical
 Attention Networks for Document Classification,”in Proceedings of the
 2016 Conference of the North American Chapter of the Association for
@@ -39,7 +42,7 @@ California, 2016, pp. 14801489, doi: 10.18653/v1/N16-1174. -->
 
 <!-- *BERT pre-training and fine-tuning procedures -* -->
 <!-- <img src="images/BERT.png?raw=true"/> -->
-[BERT Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805) 
+<!-- [BERT Image taken from Delvin et al. 2019](http://arxiv.org/abs/1810.04805)  -->
 <!-- J. Devlin, M. Chang, K Lee, K. Toutanova, ”BERT: Pre-training of
 Deep Bidirectional Transformers for Language Understanding”, CoRR
 abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
@@ -48,6 +51,13 @@ abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 
 
 ### Dissertation Research
+- Customized web-scraper script using Instaloader package in Python. Collected 2,000+ images and metadata
+- Narrative Frame Network Visualization (forthcoming)
+  - Image feature extraction and information diffusion analysis
+- Visual interpretation and focus group (forthcoming)
+- Knowledge Graph Implementation (forthcoming)
+  - Knowledge base and scene graph building
+
 
 ---
 ## Data Science: Private Datasets and Code
