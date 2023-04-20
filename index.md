@@ -43,7 +43,7 @@ abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 
 
 ### Dissertation Research
-- Customized web-scraper script using Instaloader package in Python. Collected 2,000+ images and metadata
+- Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 2,000+ images and metadata from Instagram.
 - Narrative Frame Network Visualization (forthcoming)
   - Image feature extraction and information diffusion analysis
 - Visual interpretation and focus group (forthcoming)
