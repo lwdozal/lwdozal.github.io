@@ -1,4 +1,4 @@
-PhD Candidate at the University of Arizona's School of Information. Methods Expert in Network Analysis, Machine Learning, and Data Mining
+PhD Candidate at the University of Arizona's School of Information (iSchool). Methods Expert in Network Analysis, Machine Learning, and Data Mining
 
 ---
 ## Data Science: Projects and Publications
@@ -11,14 +11,14 @@ In this analysis, Street Art images are considered as a type of visual informati
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Mixed Method Framework for Understanding Visual Frames in Social Movements
-This framework combines computational applications with visual methodologies to discover frames of meaning making in a large image collection. Frame analysis and Critical Visual Methodology (Rose, 2016) are reviewed and used in the framework to work in tangent with quantitative research methods. The quantitative methods consist of network analysis applications of Exponential Random Graph Models (ERGM) and notions of position using blockmodel analyses. Visual sentiment analysis is also explored using  computer vision methods. The methods framework is presented in the form of a matrix that enables researchers to identify applications for looking at social movements online through theoretical and computational approaches.
+This framework combines computational applications with visual methodologies to discover frames of meaning making in a large image collection. Frame analysis and Critical Visual Methodology (Rose, 2016) are reviewed and used in the framework to work in tangent with quantitative research methods. The methods framework is presented in the form of a matrix that enables researchers to identify applications for looking at social movements online through theoretical and computational approaches.
 <table>
   <tr>
     <td><img src="images/Mixed Methods for Understanding Visual Frames in Social Movements.pptx.png?raw=true"/></td>
   </tr>
 </table>
 
-### Natural Language Processing - Machine Learning 
+### Natural Language Processing ML - Model Comparison
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
 [Identifying Propaganda: Comparing NLP Machine Learning Models on Propagandistic News Articles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821)
 
