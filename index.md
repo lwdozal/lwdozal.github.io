@@ -61,6 +61,8 @@ This framework combines computational applications with visual methodologies to 
 ---
 ## Data Science: Private Datasets and Code
 
+*Here I worked with University wide data to analyze topics that support decision making including revenue, retention/attrition, and student sentiment and experience.*
+
 ### Sentiment Analysis: Student Course Survey Comments
 
 I analyzed 30K+ student course surveys using sentiment analysis packages in R to identify sentiment for all comments provided in student course surveys across campus. I also used SQL to pull the data from the Oracle database to be used for a personalized instructor dashboard.
