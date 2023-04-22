@@ -93,18 +93,39 @@ This framework combines computational applications with visual methodologies to 
 ### Sentiment Analysis: Student Course Survey Comments
 
 I analyzed 30K+ student course surveys using sentiment analysis packages in R to identify sentiment for all comments provided in student course surveys across campus. I also used SQL to pull the data from the Oracle database to be used for a personalized instructor dashboard.
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
+[![](https://img.shields.io/badge/tidyverse-white?logo=R)](#) 
+[![](https://img.shields.io/badge/dplyr-white?logo=R)](#) 
+[![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
 
 ### Survival Analysis: University Retention and Attrition
 
 I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition.
 
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
+[![](https://img.shields.io/badge/tidyverse-white?logo=R)](#) 
+[![](https://img.shields.io/badge/dplyr-white?logo=R)](#) 
+[![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
+
 ### Internal Dashboard: Net Tuition Revenue
 
 I developed an end-to-end production process of tuition and headcount dashboard visualizations and analysis using R and SQL. This consisted of aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR).
 
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/Oracle-white?logo=Oracle)](#) 
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
+[![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
+
+
 ### Campus Climate Survey: Statistical Analysis and Inference
 
 Applied statistical analysis and inference to surveys and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data included survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to use analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
+
 
 <!-- ---
 [Project 1 Title](/sample_page)
