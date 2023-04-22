@@ -3,7 +3,7 @@ PhD Candidate at the University of Arizona's School of Information (iSchool). Me
 ---
 ## Data Science: Projects and Publications
 
-### Dissertation Research: Feature Extraction for Networks Visualization, Human Computation Focus Groups, and Knowledge Graph Creation
+### Dissertation Research: Feature Extraction for Network Visualization, Focus Groups with Human Computation, and Knowledge Graph Creation
 - Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 2,000+ images and metadata from Instagram.
 - Narrative Frame Network Visualization *(forthcoming)*
   - Image feature extraction and information diffusion analysis
