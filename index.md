@@ -17,7 +17,7 @@ In this analysis, Street Art images are considered as a type of visual informati
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
 
 [Github code: Tucson_Street-Art](/Tucson_Street-Art)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<img src="images/ASIS&T_LDozal_2021.jpg?raw=true"/>
 
 ### Natural Language Processing ML - Model Comparison
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
