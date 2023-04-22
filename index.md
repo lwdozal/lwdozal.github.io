@@ -3,6 +3,15 @@ PhD Candidate at the University of Arizona's School of Information (iSchool). Me
 ---
 ## Data Science: Projects and Publications
 
+### Dissertation Research
+- Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 2,000+ images and metadata from Instagram.
+- Narrative Frame Network Visualization (forthcoming)
+  - Image feature extraction and information diffusion analysis
+- Visual interpretation and focus group (forthcoming)
+- Knowledge Graph Implementation (forthcoming)
+  - Knowledge base and scene graph building
+
+
 ### Network Analysis - Street Art
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
@@ -42,14 +51,6 @@ abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 [Github code: Identifying Propaganda](/ECE-Final)
 
 
-### Dissertation Research
-- Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 2,000+ images and metadata from Instagram.
-- Narrative Frame Network Visualization (forthcoming)
-  - Image feature extraction and information diffusion analysis
-- Visual interpretation and focus group (forthcoming)
-- Knowledge Graph Implementation (forthcoming)
-  - Knowledge base and scene graph building
-
 ### Mixed Method Framework for Understanding Visual Frames in Social Movements
 This framework combines computational applications with visual methodologies to discover frames of meaning making in a large image collection. Frame analysis and Critical Visual Methodology (Rose, 2016) are reviewed and used in the framework to work in tangent with quantitative research methods. The methods framework is presented in the form of a matrix that enables researchers to identify applications for looking at social movements online through theoretical and computational approaches.
 <table>
@@ -61,7 +62,7 @@ This framework combines computational applications with visual methodologies to 
 ---
 ## Data Science: Private Datasets and Code
 
-*Here I worked with University wide data to analyze topics that support decision making including revenue, retention/attrition, and student sentiment and experience.*
+*Here I worked with university data to tackle questions that support decision making. Topics include revenue, retention/attrition, and student sentiment and experience.*
 
 ### Sentiment Analysis: Student Course Survey Comments
 
