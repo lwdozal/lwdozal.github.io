@@ -91,7 +91,7 @@ Theoretical Matrix Presented at [Society for the Social Studies of Science Confe
 ---
 ## Data Science: Private Datasets and Code
 
-*Here I worked with university data to tackle questions that support decision making. Topics include revenue, retention/attrition, and student sentiment and experience.*
+*Here I worked with university data to tackle questions that support decision making. I used predictive modeling, statistics, Machine Learning, Data Mining, and other data analysis techniques to collect, explore, and extract insights from structured and unstructured data. Topics include revenue, retention/attrition, and student sentiment and experience.*
 
 ### Sentiment Analysis: Student Course Survey Comments
 
