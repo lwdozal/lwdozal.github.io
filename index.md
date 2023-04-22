@@ -16,8 +16,11 @@ PhD Candidate at the University of Arizona's School of Information (iSchool). Me
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
 
-[Github code: Tucson_Street-Art](/Tucson_Street-Art)
 <img src="images/ASIS&T_LDozal_2021.jpg?raw=true"/>
+
+[Github code: Tucson_Street-Art](/Tucson_Street-Art)
+
+[Poster PDF](/pdf/ASIS&T_LDozal_2021.pdf)
 
 ### Natural Language Processing ML - Model Comparison
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
