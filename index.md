@@ -85,7 +85,7 @@ This framework combines computational applications with visual methodologies to 
   </tr>
 </table>
 
-"Mixed Methods Framework for Understanding Visual Frames in Social Movements"Long Paper Accepted to [ASIS&T 2023](https://www.asist.org/am23/2023-annual-meeting-papers/) \
+"Mixed Methods Framework for Understanding Visual Frames in Social Movements" - Long Paper Accepted to [ASIS&T 2023](https://www.asist.org/am23/2023-annual-meeting-papers/) \
 Theoretical Matrix Presented at [Society for the Social Studies of Science Conference in 2022](https://4sonline.org/) <br>
 [Program can be found here](https://4sonline.org/docs/Preliminary-Program-2022.pdf)
 
