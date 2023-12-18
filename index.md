@@ -128,7 +128,7 @@ I analyzed 30K+ student course surveys using sentiment analysis packages in R to
 
 ### Survival Analysis: University Retention and Attrition
 
-I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition.
+I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition. [Read the report here](https://wise.arizona.edu/news/time-graduation-and-attrition-rates-undergraduate-women-uarizona)
 
 [![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) 
