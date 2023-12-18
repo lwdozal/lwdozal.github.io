@@ -22,6 +22,20 @@ PhD Candidate at the University of Arizona's School of Information (iSchool). Me
 <!-- [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  -->
 
+
+
+
+### Bibliometric Data: Publishing Behavior of University of Rochester Researchers
+This repository holds data and final analysis for the project, Bibliometric Data: Publishing Behavior of Rochester University Researchers. A project hosted by University of Rochester and backed by the LEADING Fellowship from Drexel University. The research question states where are University of Rochester researchers publishing/depositing data? The goal is to get a better understanding of how and where University of Rochester researchers are saving publishing their data. We attempted to analyze researcher publishing behavior and understand who is depositing data, where are they depositing it, how large are the datasets, and what formats are submitted/supported. The overall objectives were to find out where researchers are making their data publicly available. Identify common topics, relations, and overall trends. Using APIs, refine data collection techniques and conduct analyses on University of Rochester researcher data deposits into disciplinary data repositories.
+[Go to Project Repository](https://github.com/lwdozal/URoch_BibliometricBehavior)
+
+<table>
+  <tr>
+    <td><img src="images/HAN.png?raw=true"/> HAN Architecture</td>
+    <td><img src="images/BERT.png?raw=true"/>BERT pre-training and fine-tuning procedures</td>
+  </tr>
+</table>
+
 ### Street Art Network Analysis: Applications of Bi-Partite and Bi-Dynamic Line Graphs
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
