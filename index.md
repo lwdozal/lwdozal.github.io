@@ -31,8 +31,11 @@ This repository holds data and final analysis for the project, Bibliometric Data
 
 <table>
   <tr>
-    <td><img src="images/HAN.png?raw=true"/> HAN Architecture</td>
-    <td><img src="images/BERT.png?raw=true"/>BERT pre-training and fine-tuning procedures</td>
+    <td><img src="images/keywordTopicsPerRepository.png?raw=true"/> Kewords per Repository Topic</td>
+    <td><img src="images/authors_repository_topics.png?raw=true"/>Authors Per Repository Topics</td>
+  </tr>
+  <tr>
+    <td><img src="images/keyword_betweennessCentrality.png?raw=true"/>Keywords Betweeness Centrality</td>
   </tr>
 </table>
 
