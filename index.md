@@ -1,4 +1,3 @@
-PhD Candidate at the University of Arizona's School of Information (iSchool). Methods Expert in Network Analysis, Machine Learning, and Data Mining
 
 ---
 ## Data Science: Projects and Publications
