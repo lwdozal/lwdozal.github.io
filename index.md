@@ -1,6 +1,6 @@
 
----
 ## Data Science: Projects and Publications
+---
 
 ### Dissertation Research: Feature Extraction for Network Visualization, Focus Groups with Human Computation, and Knowledge Graph Creation
 - Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 2,000+ images and metadata from Instagram.
