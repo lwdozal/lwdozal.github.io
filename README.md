@@ -1,6 +1,6 @@
-**Laura W. Dozal** - PhD Candidate at the University of Arizona’s School of Information (iSchool). Methods Expert in Network Analysis, Machine Learning, and Data Mining. 
-
-Computational Social Scientist with 5+ years of specialization in information behavior and visual analysis through AI and knowledge discovery
+**Laura W. Dozal** 
+- PhD Candidate at the University of Arizona’s College of Information (iSchool). 
+Computational Social Scientist with 6+ years of specialization in information behavior and visual analysis through Computer Vision, Natural Language Processings, Graph Science and knowledge discovery
 
 
 
