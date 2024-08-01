@@ -20,11 +20,11 @@
 <!-- [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  -->
 
-### [Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)](https://ncsu-las.org/scads/) 
-#### Video Object Detection Project as LAS-SCADS Fellow
+### Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)
+
+#### Video Object Detection Project
 Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
 
-*Abstract:* The goal of this project is to lower analyst hours spent on triaging surveillance video content. The current analyst approach consists of an analyst looking for any type of change or activity in a video, typically, a change detection algorithm is implemented for those who can run the model. Either way, we are currently using suboptimal techniques for video triage. This project investigates if we can improve object detection approaches in dashcam video triage. Typically dashcam footage is realistic and challenging; it is noisy, long in length, often has no audio, and has a constantly shifting point of view. We use zero-shot models (general transformers and LMMs) to explore two specific problems found in object detection for dashcam videos by LAS staff. The first is obfuscation or obstruction where cars are given a new id and counted more than once if covered by a passing car. The second problem is identifying an unknown or unconventional vehicle like tuk-tuks or various sized trucks.\
 [Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,10 +34,9 @@ Implemented two video object tracking models: zero-shot transformers - OWL-VIT a
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation) as LAS-SCADS Fellow
+#### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
 NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
 
-*Abstract* Sentences, paragraphs, and documents are often used as the standard chunk size for text embedding, but are any the optimal size for summarization and RAG tasks? We address this question in three parts: the creation of a summarization UI that allows users to compare the quality of summaries side-by-side with different chunk size methods on the backend, as well as the quantitative ROUGE scores compared to ground truth summaries; a simulation of RAG evaluation with vector databases created from different chunk size methods, evaluated with RAGAs; and a task given to analysts asking them to break down text into chunks of information to determine if any patterns might suggest a novel chunk size method. We find that most chunk size methods do not significantly influence the output of summarization using occams but overlapping 10 sentence chunks perform worse than others. We find that paragraph and semantic methods perform similarly for RAG, but the recursive method performs worse. Finally, we conclude that analysts widely vary in their perception of information chunks.
 [Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,7 +49,8 @@ NLP researcher comparing chunk-size methods for text summarization. Used extract
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
+[LAS-SCADS Website](https://ncsu-las.org/scads/) 
+
 
 ### Bibliometric Data: Publishing Behavior of University of Rochester Researchers
 This repository holds data and final analysis for the project, Bibliometric Data: Publishing Behavior of Rochester University Researchers. A project hosted by University of Rochester and backed by the LEADING Fellowship from Drexel University. The research question states where are University of Rochester researchers publishing/depositing data? The goal is to get a better understanding of how and where University of Rochester researchers are saving publishing their data. We attempted to analyze researcher publishing behavior and understand who is depositing data, where are they depositing it, how large are the datasets, and what formats are submitted/supported. The overall objectives were to find out where researchers are making their data publicly available. Identify common topics, relations, and overall trends. Using APIs, refine data collection techniques and conduct analyses on University of Rochester researcher data deposits into disciplinary data repositories.\
