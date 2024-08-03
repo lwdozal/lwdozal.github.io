@@ -23,35 +23,39 @@
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  -->
 
 ### Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)
-
-#### Video Object Detection Project
-Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
-
-[Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
-NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
-
-[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 [LAS-SCADS Website](https://ncsu-las.org/scads/) 
+
+
+- #### Video Object Detection Project
+	Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
+
+	[Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
+
+	![objectDetection-Tracking](https://github.com/user-attachments/assets/596a3a63-cf61-4bc4-a536-2483fd293f60)
+
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- #### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
+	NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
+	
+	[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
+	
+	![RAGAs_eval](https://github.com/user-attachments/assets/41c39b52-d42b-4547-b7b1-135f38bb0bc4)
+	
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+	![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### Bibliometric Data: Publishing Behavior of University of Rochester Researchers
