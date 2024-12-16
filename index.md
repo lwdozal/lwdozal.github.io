@@ -1,7 +1,7 @@
 
 # Data Science: Projects and Publications
 
-### Dissertation Research: Feature Extraction for Narrative Network, Data Mapping, and Community Detection
+## Dissertation Research: Feature Extraction for Narrative Network, Data Mapping, and Community Detection
 - Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 11,000+ images and metadata from Instagram.
 - Instagram Affordances and biases for information diffusion analysis
   - Ontology Building
@@ -24,50 +24,61 @@
 <!-- [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  -->
 
-### Advanced Natural Language Processing Projects
-LLMs for summarization: First project covers using Llama3.2 and Tiny Llama to summarize an academic paper in Natural Language Processing and/or Deep Learning. The Paper summarized is "Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset" - Svetla Koeva, Ivelina Stoyanova, Jordan Kralev (2022). [Paper URL here.](https://aclanthology.org/2022.lrec-1.162/)
+## Advanced Natural Language Processing Projects
+**LLMs for summarization:** First project covers using Llama3.2 and Tiny Llama to summarize an academic paper in Natural Language Processing and/or Deep Learning. The Paper summarized is "Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset" - Svetla Koeva, Ivelina Stoyanova, Jordan Kralev (2022). [Paper URL here.](https://aclanthology.org/2022.lrec-1.162/)
 - [Link to project repository](https://github.com/lwdozal/ling582-fall2024-paper_summary)
+  
+**Multimodal & Multilingual LLMs:** The next project uses a multimodal & multiingual LLM to practice classifying images, text, and a combination of the two in a non-English language (Italian). The finetuned model used is BLIP-2, which was specifically created to provide an optimal text prompt, in different languages. With respect to this project, it helps identify the different clusters of images and image-caption pairs within a food dataset. 
+- [Link to project repository](https://github.com/uazhlt-ms-program/ling-582-fall-2024-course-project-code-lwdozal_project)
 
-Multimodal & Multilingual LLMs: The next project uses a multimodal & multiingual LLM to practice classifying images, text, and a combination of the two in a non-English language (Italian). The finetuned model used is BLIP-2, which was specifically created to provide an optimal text prompt, in different languages. With respect to this project, it helps identify the different clusters of images and image-caption pairs within a food dataset. 
-- 
+**Author Profiling with Naive Bayes and Convolutional Nueral Networks:** Based on the [Wikipedia page](https://en.wikipedia.org/wiki/Author_profiling), author profiling has various techniques that can be applied to predict information about the author, which in turn can help with identifying an author from text. Here I used Naive Bayes and Convolutional Neural Networks (CNN) as my main models to provide predictions.
+- [Link to project repository](https://github.com/lwdozal/ling-582-fall-2024-class-competition-code-lwdozal)
 
-### Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)
 [LAS-SCADS Website](https://ncsu-las.org/scads/) 
 
 
-- #### Video Object Detection Project
-	Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
+### Video Object Detection Project
+Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
+[Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
 
-	[Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
+![objectDetection-Tracking](https://github.com/user-attachments/assets/596a3a63-cf61-4bc4-a536-2483fd293f60)
 
-	![objectDetection-Tracking](https://github.com/user-attachments/assets/596a3a63-cf61-4bc4-a536-2483fd293f60)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-- #### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
-	NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
+### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
+NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
 	
-	[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
+[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
 	
-	![RAGAs_eval](https://github.com/user-attachments/assets/41c39b52-d42b-4547-b7b1-135f38bb0bc4)
+![RAGAs_eval](https://github.com/user-attachments/assets/41c39b52-d42b-4547-b7b1-135f38bb0bc4)
 	
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-	![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-### Bibliometric Data: Publishing Behavior of University of Rochester Researchers
+## Bibliometric Data: Publishing Behavior of University of Rochester Researchers
 This repository holds data and final analysis for the project, Bibliometric Data: Publishing Behavior of Rochester University Researchers. A project hosted by University of Rochester and backed by the LEADING Fellowship from Drexel University. The research question states where are University of Rochester researchers publishing/depositing data? The goal is to get a better understanding of how and where University of Rochester researchers are saving publishing their data. We attempted to analyze researcher publishing behavior and understand who is depositing data, where are they depositing it, how large are the datasets, and what formats are submitted/supported. The overall objectives were to find out where researchers are making their data publicly available. Identify common topics, relations, and overall trends. Using APIs, refine data collection techniques and conduct analyses on University of Rochester researcher data deposits into disciplinary data repositories.\
 [Go to Project Repository](https://github.com/lwdozal/URoch_BibliometricBehavior)
 
@@ -87,7 +98,7 @@ This repository holds data and final analysis for the project, Bibliometric Data
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
 
-### Street Art Network Analysis: Applications of Bi-Partite and Bi-Dynamic Line Graphs
+## Street Art Network Analysis: Applications of Bi-Partite and Bi-Dynamic Line Graphs
 In this analysis, Street Art images are considered as a type of visual information that can represent a specific perception of a community as a member of a community space. Dynamic By-partite network analysis was used to understand how different neighborhoods are connected through artist attributes and how they might differ. The results show that specific neighborhood traits, urban, population, culture contribute to stronger ties within the Street Art community network.
 [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.537)
 
@@ -101,7 +112,7 @@ In this analysis, Street Art images are considered as a type of visual informati
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 [![](https://img.shields.io/badge/Google_Maps-white?logo=Google)](#)
 
-### Natural Language Processing: Model Comparison between BERT and Hierarchical Attention Networks
+## Natural Language Processing: Model Comparison between BERT and Hierarchical Attention Networks
 This project two natural language processing models on a dataset composed of labeled propaganda data. We reviewed off the shelf BERT and the Hierarchical Attention Network (HAN) models and found they both provide different accuracy levels, with BERT maintaining better results for the binary data classification problem.
 [Identifying Propaganda: Comparing NLP Machine Learning Models on Propagandistic News Articles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821)
 
@@ -142,7 +153,7 @@ abs/1810.04805, May 24 2019, http://arxiv.org/abs/1810.04805.-->
 <!-- [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)  -->
 
-### Mixed Method Framework for Understanding Visual Frames in Social Movements
+## Mixed Method Framework for Understanding Visual Frames in Social Movements
 This framework combines computational applications with visual methodologies to discover frames of meaning making in a large image collection. Frame analysis and Critical Visual Methodology (Rose, 2016) are reviewed and used in the framework to work in tangent with quantitative research methods. The methods framework is presented in the form of a matrix that enables researchers to identify applications for looking at social movements online through theoretical and computational approaches.
 <table>
   <tr>
@@ -155,11 +166,11 @@ Theoretical Matrix Presented at [Society for the Social Studies of Science Confe
 [Program can be found here](https://4sonline.org/docs/Preliminary-Program-2022.pdf)
 
 ---
-## Data Science: Private Datasets and Code
+# Data Science: Private Datasets and Code
 
 *Here I worked with private university data to tackle questions that support internal decision making. I used predictive modeling, statistics, Machine Learning, Data Mining, and other data analysis techniques to collect, explore, and extract insights from structured and unstructured data. Topics include revenue, retention/attrition, and student sentiment and experience.*
 
-### Sentiment Analysis: Student Course Survey Comments
+## Sentiment Analysis: Student Course Survey Comments
 
 I analyzed 30K+ student course surveys using sentiment analysis packages in R to identify sentiment for all comments provided in student course surveys across campus. I also used SQL to pull the data from the Oracle database to be used for a personalized instructor dashboard.
 
@@ -169,7 +180,7 @@ I analyzed 30K+ student course surveys using sentiment analysis packages in R to
 [![](https://img.shields.io/badge/dplyr-white?logo=R)](#) 
 [![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
 
-### Survival Analysis: University Retention and Attrition
+## Survival Analysis: University Retention and Attrition
 
 I used survival and churn analysis to analyze the expected duration of attrition for female students and The University of Arizona. Here, Kaplan Mier and the supporting cox regression analysis were used to study retention. Churn analysis including methods of logistic regression, decision trees and random forests were used to study attrition. [Read the report here](https://wise.arizona.edu/news/time-graduation-and-attrition-rates-undergraduate-women-uarizona)
 
@@ -179,7 +190,7 @@ I used survival and churn analysis to analyze the expected duration of attrition
 [![](https://img.shields.io/badge/dplyr-white?logo=R)](#) 
 [![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
 
-### Internal Dashboard: Net Tuition Revenue
+## Internal Dashboard: Net Tuition Revenue
 
 I developed an end-to-end production process of tuition and headcount dashboard visualizations and analysis using R and SQL. This consisted of aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR).
 
@@ -189,7 +200,7 @@ I developed an end-to-end production process of tuition and headcount dashboard 
 [![](https://img.shields.io/badge/Jira-white?logo=Jira)](#) 
 
 
-### Campus Climate Survey: Statistical Analysis and Inference
+## Campus Climate Survey: Statistical Analysis and Inference
 
 Applied statistical analysis and inference to surveys and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data included survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to use analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.
 
