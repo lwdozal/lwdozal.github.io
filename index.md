@@ -28,7 +28,8 @@
 LLMs for summarization: First project covers using Llama3.2 and Tiny Llama to summarize an academic paper in Natural Language Processing and/or Deep Learning. The Paper summarized is "Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset" - Svetla Koeva, Ivelina Stoyanova, Jordan Kralev (2022). [Paper URL here.](https://aclanthology.org/2022.lrec-1.162/)
 - [Link to project repository](https://github.com/lwdozal/ling582-fall2024-paper_summary)
 
-Multimodal & Multilingual LLMs: The next project 
+Multimodal & Multilingual LLMs: The next project uses a multimodal & multiingual LLM to practice classifying images, text, and a combination of the two in a non-English language (Italian). The finetuned model used is BLIP-2, which was specifically created to provide an optimal text prompt, in different languages. With respect to this project, it helps identify the different clusters of images and image-caption pairs within a food dataset. 
+- 
 
 ### Laboratory of Applied Sciences - Summer Conference of Applied Data Science (LAS-SCADS)
 [LAS-SCADS Website](https://ncsu-las.org/scads/) 
