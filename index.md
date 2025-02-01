@@ -2,13 +2,16 @@
 # Data Science: Projects and Publications
 
 ## Dissertation Research: Feature Extraction for Narrative Network, Data Mapping, and Community Detection
-- Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 11,000+ images and metadata from Instagram.
+- Createad a customized image and metadata collector script using the Instaloader package built in Python. Collected 19,000+ images and metadata from Instagram. Currently cleaning the data with an expected output of ~13,000 images in the dataset.
 - Instagram Affordances and biases for information diffusion analysis
   - Ontology Building
   - Knowledge base and scene graph building
-- Narrative Frame Network Visualization *(forthcoming)*
+- Narrative Network Building *(forthcoming)*
   - Image feature extraction
   - Semantic qualities and distinct features in social media posts
+- Visual Discourse Analysis *(forthcoming)*
+  - With the systematic and structural techniques of content analysis
+- Community Detection *(forthcoming)*
 - Data Mapping and Fieldwork *(forthcoming)*
 
 [Website in progreass](https://lwdozal.github.io/SM_Narrative/)
