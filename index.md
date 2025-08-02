@@ -14,7 +14,7 @@
 - Community Detection *(forthcoming)*
 - Data Mapping and Fieldwork *(forthcoming)*
 
-[Website in progreass](https://lwdozal.github.io/SM_Narrative/)
+[LLMOPs pipeline in progreass](https://github.com/lwdozal/Dissertation_AI_Workbench)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Instagram-white?logo=Instagram)](#) 
