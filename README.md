@@ -1,5 +1,5 @@
 **Laura W. Dozal** PhD Candidate at the University of Arizona’s College of Information (iSchool). 
-Computational Social Scientist with 6+ years of specialization in information behavior and visual analysis through Computer Vision, Natural Language Processings, Graph Science and knowledge discovery
+Computational Social Scientist with 6+ years of specialization in information behavior and visual analysis through Computer Vision, Natural Language Processing, Graph Science and knowledge discovery
 
 
 
