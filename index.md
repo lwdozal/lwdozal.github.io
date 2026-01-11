@@ -1,7 +1,8 @@
 
 # Data Science: Projects and Publications
 
-## Dissertation Research: Using Multimodal Sentiment Analysis for Knowledge Retrieval in Structured Graphs: Understanding Social Movement Messaging from a Collection of Topical Images, covers social evolution of communication practices online
+## Dissertation Research: 
+**Using Multimodal Sentiment Analysis for Knowledge Retrieval in Structured Graphs: Understanding Social Movement Messaging from a Collection of Topical Images**
 
 The use of computational methods on real world data to understand narrative messaging of social movements online as a way to monitor the social evolution of how a narrative can change over time, is seen across different mediums. The analysis models the communication messaging system of a social movement on a social media platform by building a narrative structure representative of the local semantics of image groups and an overall global summarization of the narrative structure as a whole. 
 - *Data Collection*: Createad a customized image and metadata collector script using Selenium, Beautiful Soup and Python packaged. Collected 19,000+ images and metadata from Instagram. Currently cleaning the data with an expected output of ~16,000 images in the dataset.
