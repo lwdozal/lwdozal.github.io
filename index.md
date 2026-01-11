@@ -1,7 +1,7 @@
 
 # Data Science: Projects and Publications
 
-## Dissertation Research: 
+## Dissertation Research
 **Using Multimodal Sentiment Analysis for Knowledge Retrieval in Structured Graphs: Understanding Social Movement Messaging from a Collection of Topical Images**
 
 The use of computational methods on real world data to understand narrative messaging of social movements online as a way to monitor the social evolution of how a narrative can change over time, is seen across different mediums. The analysis models the communication messaging system of a social movement on a social media platform by building a narrative structure representative of the local semantics of image groups and an overall global summarization of the narrative structure as a whole. 
@@ -14,18 +14,17 @@ The use of computational methods on real world data to understand narrative mess
 
 These quantitative findings are used in conjunction with a theoretical analysis of how the media has framed the anti-feminicide movement in Mexico since the 1990’s, and implements a review of the network’s local and global semantics creating narrative structure for the collection of topical images. 
 
-[AI Workbench: M-LLMOPs pipeline in progress](https://github.com/lwdozal/Dissertation_AI_Workbench)
+[Dissertation Workbench: Research pipeline *in progress*](https://github.com/lwdozal/Dissertation_AI_Workbench)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[AI/ML Workshop and Codebase for M-LLMOPS Pipeline (Funded by Jetstream Grant)](https://github.com/lwdozal/AI-ML_PipelineWorkshop)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![](https://img.shields.io/badge/Instagram-white?logo=Instagram)](#) 
-[![](https://img.shields.io/badge/Instaloader-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Scrapy-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Spyder-white?logo=Spyder)](#)
-[![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
-<!-- [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)  -->
-<!-- [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  -->
 
 ## Advanced Natural Language Processing Projects
 **LLMs for summarization:** First project covers using Llama3.2 and Tiny Llama from the Huggingface cli to summarize an academic paper in Natural Language Processing and/or Deep Learning. The Paper summarized is "Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset" - Svetla Koeva, Ivelina Stoyanova, Jordan Kralev (2022). [Paper URL here.](https://aclanthology.org/2022.lrec-1.162/)
