@@ -4,6 +4,7 @@
 ## Dissertation Research
 **Using Multimodal Sentiment Analysis for Knowledge Retrieval in Structured Graphs: Understanding Social Movement Messaging from a Collection of Topical Images**
 
+*Research Question: Can we identify a narrative from a collection of toipical images using computational methods?* \
 The use of computational methods on real world data to understand narrative messaging of social movements online as a way to monitor the social evolution of how a narrative can change over time, is seen across different mediums. The analysis models the communication messaging system of a social movement on a social media platform by building a narrative structure representative of the local semantics of image groups and an overall global summarization of the narrative structure as a whole. 
 
 *Data Collection*: Createad a customized image and metadata collector script using Selenium, Beautiful Soup and Python packaged. Collected 19,000+ images and metadata from Instagram. Cleaned and processed data with an output of ~16,000 images and metadata in the collection of topical images.\
@@ -15,7 +16,8 @@ The use of computational methods on real world data to understand narrative mess
 **M-LLM Image to Text Generation (JSON Output), BERTSCORER and SentenceTransformer Evaluation**\
 **The second step** takes the images and runs them through foundational vision transformer models, along with generative Multimodal Large Language Models (M-LLMs) that generate two labels and a description of each of the images; and are compared and analyzed against each other using multi-label classification metrics along with HITL discourse analysis of the categorization process
 	- *M-LLMs include:* BLIP-2, Qwen 2.5VL, Llama3, Llama4 Scout, and phi4.
-**Network Analysis; GNNs**\
+	
+**Network Analysis and GNNs**\
 **The third step** uses the top labels created from the model with the best overall quantitative and HITL discourse evaluation metrics to build multiple graphs representing the various stages of semantics found within the image and its attributes. The graph is analyzed to identify structural patterns of the network using traditional centrality measures and modularity models (Leidan algorithm) to understand the semantic connections within and across the network. The overall graph structure is compared to benchmark datasets in a Graph Attention Network (GAT) model that uses a variational autoencoder (VAE) on the graph to compare classifications of the collected annotated image data.
 
 These quantitative findings are used in conjunction with a theoretical analysis of how the media has framed the anti-feminicide movement in Mexico since the 1990’s, and implements a review of the network’s local and global semantics creating narrative structure for the collection of topical images. 
