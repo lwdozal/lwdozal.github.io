@@ -7,7 +7,7 @@
 *Research Question: Can we identify a narrative from a collection of toipical images using computational methods?* \
 The use of computational methods on real world data to understand narrative messaging of social movements online as a way to monitor the social evolution of how a narrative can change over time, is seen across different mediums. The analysis models the communication messaging system of a social movement on a social media platform by building a narrative structure representative of the local semantics of image groups and an overall global summarization of the narrative structure as a whole. 
 
-- *Data Collection*: Createad a customized image and metadata collector script using Selenium, Beautiful Soup and Python packaged. Collected 19,000+ images and metadata from Instagram. Cleaned and processed data with an output of ~16,000 images and metadata in the collection of topical images.\
+- *Data Collection*: Createad a customized image and metadata collector script using Selenium, Beautiful Soup and Python packaged. Collected 19,000+ images and metadata from Instagram. Cleaned and processed data with an output of 16,567 images and metadata in the collection of topical images.\
 *Data Annotation*: Used Label Studio to annotate 3,020 images based on labels identified duing visual content analysis of the images. 
 
 - **Image Feature Feature, Cluster Embeddings, Human in the Loop Analysis**\
