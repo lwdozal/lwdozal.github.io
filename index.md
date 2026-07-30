@@ -58,7 +58,7 @@ These quantitative findings are used in conjunction with a theoretical analysis 
 
 
 ### Video Object Detection Project
-Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs.
+Implemented two video object tracking models: zero-shot transformers - OWL-VIT and LMM gpt-4o on noisy data- dashcam footage of a ride in Afghanistan provided by LAS staff. The goal was to explore improvements for tracking object obfuscation and detecting unknown/unconventional objects in the noisy surveillance video data. We found that pre-trained image models provided the most accurate structured data outputs. \
 [Go to Project Repository](https://github.com/lwdozal/VideoObejctDetection-SCADS)
 
 ![objectDetection-Tracking](https://github.com/user-attachments/assets/596a3a63-cf61-4bc4-a536-2483fd293f60)
@@ -73,7 +73,8 @@ Implemented two video object tracking models: zero-shot transformers - OWL-VIT a
 ### A Comparison of Dynamic Chunk Size Methods (RAG Implememtation)
 NLP researcher comparing chunk-size methods for text summarization. Used extractive summarization occams and abstractive summarization, Retrieval Augmentation Generation (RAG) to test different text segmentation methods. Used and created vector embedding database for evaluation using RAGAs, an LLM RAG evaluator. Used the 2024 TREC Challenge data-MSMarco docs and QA for analysis.
 	
-[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSizeS)
+[Go to Project Repository](https://github.com/lwdozal/RAG_ChunkSize)
+
 	
 ![RAGAs_eval](https://github.com/user-attachments/assets/41c39b52-d42b-4547-b7b1-135f38bb0bc4)
 	
