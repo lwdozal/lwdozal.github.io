@@ -1,5 +1,5 @@
 **Laura Werthmann Dozal** PhD from the University of Arizona’s College of Information (iSchool). 
-Computational Social Scientist with 6+ years of specialization in information behavior and visual analysis through Computer Vision, synthetic data generation, Natural Language Processing (NLP), network Science and knowledge discovery
+Computational Social Scientist with 6+ years of specialization in information behavior and graph analysis through Computer Vision, synthetic data generation, Natural Language Processing (NLP), network Science and deep learning.
 
 
 
